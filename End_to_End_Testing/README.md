@@ -3,7 +3,7 @@
 <p><h3>Steps</h3>
 <ol>
   <li>Navigate to source S3 bucket (demo-1)</li>
-  <li>Upload json file in raw folder. Sample file in <a href="https://github.com/MithileshSanam/AWS/blob/main/files/sales_records.json?raw=true">here</a></li>
+  <li>Upload json file in raw folder. Sample file in <a href="https://github.com/MithileshSanam/AWS/blob/main/files/sales_records.json">here</a></li>
   <img src="https://github.com/MithileshSanam/AWS/blob/main/End_to_End_Testing/images/1.png?raw=true alt="testing">
 
   <li>Navigate to SQS queue. Messages available shows no of messages available in queue (before polling). Messages in Flight shows no. of messages currently being polled. Since Lambda automatically polls from SQS, quickly it reverts to zero.</li>
