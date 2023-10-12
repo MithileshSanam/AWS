@@ -24,7 +24,7 @@
 
 
   <li>Navigate to EventBridge</li>
-  <li>Follow steps in 6_Create_Event_Bridge_Rule_1 to create another event. In step-2, enter below pattern <a href="https://github.com/MithileshSanam/AWS/blob/main/code/eventbridge_rule_2.json?raw=true">Rule-2 JSON</a></li>
+  <li>Follow steps in 6_Create_Event_Bridge_Rule_1 to create another event. In step-2, enter below pattern <a href="https://github.com/MithileshSanam/AWS/blob/main/code/eventbridge_rule_2.json">Rule-2 JSON</a></li>
   <img src="https://github.com/MithileshSanam/AWS/blob/main/project_steps/8_Create_SNS_Event_Bridge_Rule_2/images/8.5.png?raw=true alt="Create EventBridge rule">
 
   <li>In Step-3, Select AWS Service. Select SNS as target. Select topic created above.</li>
