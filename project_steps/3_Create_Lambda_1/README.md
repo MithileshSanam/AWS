@@ -24,11 +24,11 @@
   <li>Navigate to lambda function created before. Click on Add trigger</li>
   <img src="https://github.com/MithileshSanam/AWS/blob/main/project_steps/3_Create_Lambda_1/images/3.5.png?raw=true alt="Create Lambda">
 
-  <li>Select SQS. Select SQS queue. CLick on add</li>
+  <li>Select SQS. Select SQS queue. Click on add</li>
   <img src="https://github.com/MithileshSanam/AWS/blob/main/project_steps/3_Create_Lambda_1/images/3.6.png?raw=true alt="Create Lambda">
 
   <li>Trigger is created. Same can be verified in SQS queue lambda trigger section as well.</li>
-  <li>In code, enter code in <a href='https://github.com/MithileshSanam/AWS/blob/main/code/lambda_function_1.py?raw=true'>Lambda function-1</a></li>
+  <li>In code, enter code in <a href='https://github.com/MithileshSanam/AWS/blob/main/code/lambda_function_1.py'>Lambda function-1</a></li>
 
 </ol>
 </p>
