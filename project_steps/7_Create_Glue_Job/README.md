@@ -21,7 +21,7 @@
   <img src="https://github.com/MithileshSanam/AWS/blob/main/project_steps/7_Create_Glue_Job/images/7.4.png?raw=true alt="Create Glue Job">
   <li>Click on Data target node. Enter node name, select parent as transform change schema node, select format as parquet and enter output S3 path</li>
   <img src="https://github.com/MithileshSanam/AWS/blob/main/project_steps/7_Create_Glue_Job/images/7.5.png?raw=true alt="Create Glue Job">
-  <li>In Script tab, <a href="https://github.com/MithileshSanam/AWS/blob/main/code/glue_script.py?raw=true">python script</a> is generated based visual ETL nodes.</li>
+  <li>In Script tab, <a href="https://github.com/MithileshSanam/AWS/blob/main/code/glue_script.py">python script</a> is generated based visual ETL nodes.</li>
   <li>Select Job details tab. Select same IAM role as provided for glue crawler.</li>
   <li>Click Save</li>
 
