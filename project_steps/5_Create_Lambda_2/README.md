@@ -15,6 +15,6 @@
 
   <li>Navigate to IAM. For the role created above, select below permissions.</li>
   <img src="https://github.com/MithileshSanam/AWS/blob/main/project_steps/5_Create_Lambda_2/images/5.2.png?raw=true alt="Create lambda">
-  <li>In code, enter code in <a href='https://github.com/MithileshSanam/AWS/blob/main/code/lambda_function_2.py?raw=true'>Lambda function-2</a></li>
+  <li>In code, enter code in <a href='https://github.com/MithileshSanam/AWS/blob/main/code/lambda_function_2.py'>Lambda function-2</a></li>
 </ol>
 </p>
